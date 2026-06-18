@@ -33,22 +33,3 @@
 </p>
 
 <br/>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-912&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Akashdeep's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-912&theme=tokyonight&hide_border=true&background=0D1117" alt="Akashdeep's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-912&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<br/>
-
----
-<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
